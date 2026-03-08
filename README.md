@@ -19,5 +19,5 @@
     srcset="https://github-readme-activity-graph.vercel.app/graph?username=0-Sandy&bg_color=transparent&color=151515&line=d28314&point=fb8c00&area=true&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0-Sandy&bg_color=FFFEFE&color=000000&line=d28314&point=fb8c00&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0-Sandy&bg_color=FFFEFE&color=000000&line=d28314&point=fb8c00&area=true&hide_border=true&radius=4.5" />
 </picture>

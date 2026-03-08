@@ -1,3 +1,15 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=32&pause=1000&color=D28314&center=true&vCenter=true&random=true&width=435&lines=Hi+there!+I%27m+Sandy;Welcome+to+my+profile;Hello+world" />
+</h1>
+
+Passionate about exploring new technologies and building interesting projects.
+Currently maintaining an Invite Plugin for Better Auth for user invitation support in authentication systems.
+See more in [better-auth-invite-plugin](https://github.com/0-Sandy/better-auth-invite-plugin).
+
+---
+
+# 📊 GitHub Activity and Stats
+
 <picture>
   <source
     srcset="https://streak-stats.demolab.com?user=0-Sandy&theme=dark&hide_border=true&background=transparent"

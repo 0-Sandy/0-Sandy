@@ -1,5 +1,15 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=32&pause=1000&color=D28314&center=true&vCenter=true&random=true&width=435&lines=Hi+there!+I%27m+Sandy;Welcome+to+my+profile;Hello+world" />
+  <picture>
+    <source
+      srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&random=true&width=435&lines=Hi+there!+I%27m+Sandy;Welcome+to+my+profile;Hello+world"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=32&pause=1000&color=000000&center=true&vCenter=true&random=true&width=435&lines=Hi+there!+I%27m+Sandy;Welcome+to+my+profile;Hello+world"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=32&pause=1000&color=D28314&center=true&vCenter=true&random=true&width=435&lines=Hi+there!+I%27m+Sandy;Welcome+to+my+profile;Hello+world" />
+  </picture>
 </h1>
 
 Passionate about exploring new technologies and building interesting projects.

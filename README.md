@@ -14,7 +14,7 @@
 
 Passionate about exploring new technologies and building interesting projects.
 Currently maintaining an Invite Plugin for Better Auth for user invitation support in authentication systems.
-See more in [better-auth-invite-plugin](https://github.com/0-Sandy/better-auth-invite-plugin).
+See more in [better-invite's github](https://github.com/better-invite/better-invite).
 
 ---
 
